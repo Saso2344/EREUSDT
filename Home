@@ -1,0 +1,117 @@
+<html>
+<head>
+ <title> EREUSDT.KS </title>
+</head>
+
+<body>
+
+<header style="background-color:green ; height:10%">
+<h1 style="color:blue">EREUSDT.KS</h1>
+</header>
+
+<br> <p> total balance </p>
+
+<h2> Basic account <br>
+ commission account <br>
+ financial account </h2> <br>
+
+<table class="mid">
+    <tr>
+        <td> VIP </td>
+        <td> Profit </td>
+    </tr>
+    <tr>
+         <td colspan="2" id="Noofmem"> Number of members </td>
+     
+    </tr>
+</table>
+
+<ul>
+  <li><a href="#">Home</a></li>
+  <li><a href="#">Trade</a></li>
+  <li><a href="#">Invest</a></li>
+  <li><a href="#">Invite</a></li>
+  <li><a href="#">Me</a></li>
+</ul>
+
+   </body>
+  <style>p {
+  text-align:center;
+  color:Red;
+} 
+
+h2 {
+  color:#3293a8;
+  line-height:47px;
+  margin: 20px 10px 20px 10px;
+  padding: 10px 10px 10px 10px;
+  border: 8px solid blue;
+  border-radius: 25px;
+  background-color: #131c2b;
+  height:200px;
+  box-size:50%;
+  box-sizing:border-box;
+}
+
+
+h1{
+  position:fixed;
+  top:10px;
+}
+
+.mid {
+  width:90%;
+  height:20%;
+  position: relative;
+  left:5%;
+}
+
+td {
+  text-align:center;
+  color: white;
+  background-color:#131c2b;
+  border: 1px solid ;
+  margin: 4px 4px 10px 10px;
+  border-radius:20px;
+}
+
+ul {
+  padding: 0;
+  margin-top:10px;
+  width: 100%;
+  position:fixed;
+  bottom:1px;
+}
+li {
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 1%;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  width:18%;
+  color: white;
+  background-color: green;
+}
+a:hover {
+  background: blue;
+}
+  
+ul {
+  position:fixed;
+  bottom:1 px;
+}
+  body {
+    background-color:#360645;
+  }
+  #Noofmem {
+    text-align:center      ;
+    
+  }
+    
+
+  </style>
